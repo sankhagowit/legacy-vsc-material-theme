@@ -1,3 +1,5 @@
+# Legacy Material Theme - release v30.0
+See below for links/documentation to the current state of the VS Code Material Theme Extension
 
 <p align="center"><img width="800px" src="https://i.ibb.co/LzRwxp4/Frame.jpg"></p>
 <p align="center">
