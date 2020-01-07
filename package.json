@@ -1,9 +1,9 @@
 {
-  "name": "vsc-material-theme",
-  "displayName": "Material Theme",
-  "description": "The most epic theme now for Visual Studio Code",
+  "name": "legacy-vsc-material-theme",
+  "displayName": "Legacy Material Theme",
+  "description": "The most epic Legacy theme now for Visual Studio Code",
   "version": "30.0.0",
-  "publisher": "Equinusocio",
+  "publisher": "sankhagowit",
   "license": "Apache-2.0",
   "author": "Mattia Astorino [@equinusocio]",
   "icon": "logo.png",
